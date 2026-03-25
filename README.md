@@ -17,7 +17,7 @@ This skill transforms the traditional copywriting template approach into an inte
 
 ### In OpenClaw
 ```
-你要做銷售文案，產品是XXX
+I want to create sales copy for an online Python course
 ```
 
 ### CLI Mode
@@ -29,40 +29,40 @@ copywriting-with-coach "你的產品"
 
 | Type | Description |
 |------|-------------|
-| VSL | Video Sales Letter - 視頻銷售信 |
-| Cold Email | 冷郵件 - 開發新客戶 |
-| Warm Email | 暖郵件 - 現有客戶維護 |
-| Review Backup | 評論回覆 |
-| Local Deals | 在地優惠 - 本地服務 |
-| Webinar | 網路研討會報名頁 |
+| VSL | Video Sales Letter |
+| Cold Email | Cold Email for new clients |
+| Warm Email | Warm Email for existing customers |
+| Review Backup | Review responses |
+| Local Deals | Local service promotions |
+| Webinar | Webinar registration pages |
 
 ## Example Conversation
 
 ```
-You: 我要賣一個Python線上課程
-Bot: 好的！讓我用 VSL 框架幫你。
+You: I want to sell a Python online course
+Bot: Great! Let me help you with the VSL framework.
 
-Bot: 你的目標客戶是什麼程度？
-     1. 完全新手
-     2. 有些基礎
-     3. 中級進階
-     4. 高級專業
+Bot: What's the level of your target audience?
+     1. Complete beginner
+     2. Some basics
+     3. Intermediate
+     4. Advanced professional
 
-You: 完全新手
+You: Complete beginner
 
-Bot: 明白。接下來：他們現在面臨什麼問題？
-     （盡可能具體描述）...
+Bot: Got it. Next: What problems are they facing right now?
+     (Be as specific as possible)...
 
-You: 市面上的教程都太複雜了，而且沒人回答問題
+You: All the tutorials out there are too complicated and nobody answers questions
 
-Bot: 了解！最後一個問題：你希望客戶下一步做什麼？
-     1. 立即購買
-     2. 免費試用
-     3. 預約諮詢
+Bot: Understood! Last question: What do you want them to do next?
+     1. Buy now
+     2. Free trial
+     3. Book a consultation
 
-You: 免費試用
+You: Free trial
 
-✨ 生成的销售复制...
+✨ Generating your sales copy...
 ```
 
 ## Files
